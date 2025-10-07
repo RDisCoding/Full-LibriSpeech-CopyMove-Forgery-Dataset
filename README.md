@@ -10,16 +10,9 @@ This dataset provides cleanly partitioned, speaker-disjoint splits (train/valida
 
 ## 📦 Dataset Access
 
-The full dataset (~25 GB) is publicly available on Hugging Face:
+Please fill-in the Full_LibriSpeech_CMF_Access_Request_Form linked below, and email it to **rdiscoding@gmail.com**, **rahuldixit@aid.svnit.ac.in** to request access to the **Full LibriSpeech Copy–Move Forgery Dataset**.
 
-👉 [https://huggingface.co/datasets/TheAnalyzer/Full-LibriSpeech-CopyMove-Forgery-Dataset](https://huggingface.co/datasets/TheAnalyzer/Full-LibriSpeech-CopyMove-Forgery-Dataset)
-
-You can clone it using Git LFS:
-
-```bash
-git lfs install
-git clone https://huggingface.co/datasets/TheAnalyzer/Full-LibriSpeech-CopyMove-Forgery-Dataset
-```
+[Full_LibriSpeech_CMF_Access_Request_Form.pdf](link-to-your-form)
 
 ---
 
@@ -29,11 +22,11 @@ Preprocessing scripts, baseline CNN implementations, and evaluation notebooks ar
 
 ```bash
 git clone https://github.com/RDisCoding/Full-LibriSpeech-CopyMove-Forgery-Dataset
-cd LibriSpeech-CMF
+cd Full-LibriSpeech-CopyMove-Forgery-Dataset
 ```
 
 ---
 
 ## 📬 Contact
 
-For questions or collaborations, please contact: **[rdiscoding@gmail.com](mailto:rdiscoding@gmail.com)**
+For questions or collaborations, please contact: **[rdiscoding@gmail.com](mailto:rdiscoding@gmail.com)**, **[rahuldixit@aid.svnit.ac.in](mailto:rahuldixit@aid.svnit.ac.in)**
