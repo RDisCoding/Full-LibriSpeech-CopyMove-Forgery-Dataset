@@ -1,6 +1,6 @@
 # Full LibriSpeech Copy–Move Forgery Dataset
 
-## 📘 Overview
+## Overview
 
 The **Full LibriSpeech Copy–Move Forgery Dataset** is a benchmark created to support research in **audio forgery detection**, particularly **copy–move manipulation** detection and localization. In copy–move forgery, segments from a single audio file are duplicated and repositioned, making detection difficult for traditional verification systems.
 
@@ -8,15 +8,15 @@ This dataset provides cleanly partitioned, speaker-disjoint splits (train/valida
 
 ---
 
-## 📦 Dataset Access
+## Dataset Access
 
-Please fill-in the Full_LibriSpeech_CMF_Access_Request_Form linked below, and email it to **rdiscoding@gmail.com**, **rahuldixit@aid.svnit.ac.in** to request access to the **Full LibriSpeech Copy–Move Forgery Dataset**.
+Please fill-in the Full_LibriSpeech_CMF_Access_Request_Form linked below, and email it to **rdiscoding@gmail.com**, **rahul2012ism@gmail.com** to request access to the **Full LibriSpeech Copy–Move Forgery Dataset**.
 
 [Full_LibriSpeech_CMF_Access_Request_Form.pdf](https://github.com/RDisCoding/Full-LibriSpeech-CopyMove-Forgery-Dataset/blob/main/Full_LibriSpeech_CMF_Access_Request_Form.docx)
 
 ---
 
-## ⚙️ Usage
+## Usage
 
 Preprocessing scripts, baseline CNN implementations, and evaluation notebooks are available in this repository to help reproduce the results presented in the paper.
 
@@ -27,6 +27,6 @@ cd Full-LibriSpeech-CopyMove-Forgery-Dataset
 
 ---
 
-## 📬 Contact
+## Contact
 
-For questions or collaborations, please contact: **[rdiscoding@gmail.com](mailto:rdiscoding@gmail.com)**, **[rahuldixit@aid.svnit.ac.in](mailto:rahuldixit@aid.svnit.ac.in)**
+For questions or collaborations, please contact: **[rdiscoding@gmail.com](mailto:rdiscoding@gmail.com)**, **[rahul2012ism@gmail.com](mailto:rahul2012ism@gmail.com)**
